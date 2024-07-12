@@ -1,1 +1,8 @@
 https://www.youtube.com/@nativecoder/videos
+
+[Include Plugin]
+- ModelingToolsEditorMode
+- AnimationWarping
+- MotionWarping
+- MotionTrajectory
+- Chooser
